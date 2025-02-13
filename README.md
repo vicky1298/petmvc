@@ -1,1 +1,1 @@
-# petmvc
+🐾 Developed a **Pet Management System** using **Spring MVC** with full CRUD operations. 🛠️ Enabled seamless pet data handling with create, read, update, and delete functionalities. 🚀 A step toward building scalable and structured web applications!
